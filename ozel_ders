@@ -7,7 +7,7 @@
 bacağını kaldır indir öne at ayak dur.
 "
 -----------------------------------------------------------------------
-#Flowchart: Algoritmalarımızı görsel şekilde planlamak için kullandığımız şablonlar.
+#Flowchart: Algoritmalarımızı görsel şekilde planlamak için kullandığımız şablonlar. https://app.diagrams.net/
 "
 oval: start / end
 dörtgen: akış
