@@ -1,4 +1,6 @@
--------- Özel ders ------
+ Özel ders 1.bölüm---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 #Algorithm: Belirli bir problemi adım adım giderek çözmemize denir.
 "
@@ -45,4 +47,31 @@ Calculate the average of three
 numbers: 3, 5, and 7. 
 
 ---------------------------------------------------------------------
+
+
+ÖZEL DERS ALGORİTMALAR 2. BÖLÜM--------------------------------------------------------------------------------------------------------------------------------------------------
+
+---SORTING ALGORITHMS---
+
+Nedir? Sorting algoritmalar bir veri topluluğundan istediğimiz verileri çekmemizi, sıralamamızı sağlar.
+
+#Selection Sort 
+"""
+BEGIN selectionSort:
+a = [4, 6, 3, 8, 1, 7, 5, 2]
+n = a.length - 1
+m = 0
+while(m < n)
+min = Select min of a[m..n]
+Swap a[m] and min
+m++
+END
+
+#Merged Sort
+"""
+
+"""
+"""
+
+
 
