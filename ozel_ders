@@ -1,0 +1,46 @@
+-------- Özel ders ------
+
+#Algorithm: Belirli bir problemi adım adım giderek çözmemize denir.
+"
+Örnek: Bir insanın yürümesini algoritmik olarak belirt.
+1. Yürü : bu algortima değildir, algoritma her adımı mala anlatırmış gibi bilgisayara anlatmaktır.
+bacağını kaldır indir öne at ayak dur.
+"
+-----------------------------------------------------------------------
+#Flowchart: Algoritmalarımızı görsel şekilde planlamak için kullandığımız şablonlar.
+"
+oval: start / end
+dörtgen: akış
+diamond: koşullar yazılır
+oklar: akış yönü
+"
+-----------------------------------------------------------------------
+#Pseudocode: Algoritmamızı kod dahilinde yazmamıza verilen addır. Yorum şeklinde de kod içine yazılabilir // """ """ #  şeklinde
+"
+BEGIN ProgramName:
+Read input
+Print output
+END
+"
+
+koşullu olunca
+"
+BEGIN makeToast:
+…
+IF(you want butter)
+Spread butter on the toast with a knife
+ELSE IF(you want Nutella)
+Spread Nutella on the toast with a knife
+END
+"
+---------------------------------------------------------------------
+
+ŞUANA KADAR HER ŞEYİ İÇEREN BİR ÖRNEK YAPALIM!
+
+ÖRNEK:
+
+Calculate the average of three 
+numbers: 3, 5, and 7. 
+
+---------------------------------------------------------------------
+
