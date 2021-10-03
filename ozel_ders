@@ -10,9 +10,11 @@ bacağını kaldır indir öne at ayak dur.
 #Flowchart: Algoritmalarımızı görsel şekilde planlamak için kullandığımız şablonlar. https://app.diagrams.net/
 "
 oval: start / end
+paralel: input
 dörtgen: akış
 diamond: koşullar yazılır
 oklar: akış yönü
+hybrid: output
 "
 -----------------------------------------------------------------------
 #Pseudocode: Algoritmamızı kod dahilinde yazmamıza verilen addır. Yorum şeklinde de kod içine yazılabilir // """ """ #  şeklinde
