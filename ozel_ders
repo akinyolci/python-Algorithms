@@ -47,6 +47,10 @@ Calculate the average of three
 numbers: 3, 5, and 7. 
 
 ---------------------------------------------------------------------
+#Trace Table: algoritmamızı yazdıktan sonra tabloda belirli variable ları input edip output ve line ların doğru değerlerde olup olmadığı öğrenmemizi sağlar. İleride bunun çok daha kompleks
+olan DEBUG metodlarını göreceğiz.
+
+
 
 
 ÖZEL DERS ALGORİTMALAR 2. BÖLÜM--------------------------------------------------------------------------------------------------------------------------------------------------
