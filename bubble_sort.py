@@ -1,3 +1,6 @@
+
+#Sorts two consecutive values in a list and continues this process until the whole list is ordered.
+
 arr = [99,3,44,55,23,32,43]
 def bubble(arr):
     for n in range(len(arr)):
